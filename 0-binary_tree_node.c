@@ -6,7 +6,7 @@
  * @value: value to put in the new node.
  *
  * Return: an error occure - NULL.
- * 	   else - pointer to the new node.
+ * else - pointer to the new node.
  */
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 {
